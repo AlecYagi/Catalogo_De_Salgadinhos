@@ -1,0 +1,14 @@
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\bin\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.deps.json
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\bin\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.runtimeconfig.json
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\bin\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.runtimeconfig.dev.json
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\bin\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.dll
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\obj\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.csprojAssemblyReference.cache
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\obj\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.csproj.CoreCompileInputs.cache
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\obj\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.RazorAssemblyInfo.cache
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\obj\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.RazorAssemblyInfo.cs
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\obj\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.AssemblyInfoInputs.cache
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\obj\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.AssemblyInfo.cs
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\obj\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.RazorTargetAssemblyInfo.cache
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\bin\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.pdb
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\obj\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.dll
+C:\Users\alecr\Documents\GitHub\Catalogo_De_Salgadinhos\Catalogo_De_Salgadinhos\obj\Debug\netcoreapp2.1\Catalogo_De_Salgadinhos.pdb
